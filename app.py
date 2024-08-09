@@ -112,7 +112,7 @@ def main():
     
 
 # #---Done --
-#     st.markdown("Developed by External Guide Avinash Pawar and WBL intern : Sana Khan at NIELIT Daman")
+#     st.markdown("Developed by External Guide Avinash Pawar and WBL intern : Sanjeev at NIELIT Daman")
 
 if __name__ == '__main__':
     main()
